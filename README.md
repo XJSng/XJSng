@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @XJSng
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python, javascript, HTML and CSS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Xu Jie but you can call me XJ.
+- 👀 I've always been curious about web development and started tinkering with HTML, CSS, & JavaScript in June 2023
+- 🌱 I’m currently focusing on Javascript in hopes of becoming a full-stack developer.
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/xu-jie-sng/)
 
 <!---
 XJSng/XJSng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
